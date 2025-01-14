@@ -15,7 +15,7 @@ class Contact {
     }
 }
 
-public class Main {
+public class ContactManagementSystem {
     // List to store contacts
     static ArrayList<Contact> contacts = new ArrayList<>();
 
