@@ -1,4 +1,4 @@
-Here is a generated README file for your internship project:
+
 
 ---
 
@@ -39,4 +39,3 @@ Create a Student Information System with a Graphical User Interface (GUI) using 
 
 ---
 
-You can add this content to your README file to provide an overview of the projects you have worked on during your internship.
