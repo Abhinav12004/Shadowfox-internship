@@ -23,9 +23,10 @@ This project involves building a backend system for an e-commerce website using 
 - **Programming Languages**: Java
 - **Frameworks**: Spring Boot, 
 - **Databases**:  MySQL, SQLite
-- **Message Brokers**: [Specify message brokers used, e.g., RabbitMQ, Kafka]
+- **API Gateway**: Spring cloud Gateway
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
+- **Authentication**: JWT(JSON Web Tokens)
 
 ## Getting Started
 
